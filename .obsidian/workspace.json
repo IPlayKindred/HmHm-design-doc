@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to do..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "to do..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,10 +159,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "931989cba1e01f66",
+  "active": "b5b5472f29be2d7d",
   "lastOpenFiles": [
-    "what maps to make.md",
     "to do..md",
+    "what maps to make.md",
     "main garage.md",
     "map making plan.md",
     "boss plan.md",

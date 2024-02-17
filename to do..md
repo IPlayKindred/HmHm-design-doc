@@ -39,9 +39,13 @@ dont push yourself too hard.
 	   
 	   this car is only car where you take as much time modeling as you can. because this is probably gonna be the pseudo cover car.
 	   
-1. make new maps, check [[what maps to make]]
-2. energy recovery system (ers):
+20. make new maps, check [[what maps to make]]
+21. energy recovery system (ers):
 	this acts in the same way as burst nitrous, but the power of the burst is in how much energy is in the system, you gain energy by braking, the higher your speed while breaking, the more speed you lose, the bigger the energy, and the bigger the burst.
 	
 	it also works in a way that energy gain is exponential, the difference between 150 and 160 is much much more than 90 and 100, even tho they're both 10 apart.
+	
+	other ways to recover energy, is the time the car go down from air, the faster the descent the better, also the higher the slip ratio, the more energy the ers system gains, as to compensate for the lost grip.
+	
+	the more downforce there is, the more energy is gained. 
 22. make the boss cars. check [[boss plan]]
