@@ -19,4 +19,9 @@ here's the thought process I have for working on the project
 	don't introduce the ers system without presenting the player with seemingly impossible jumps and stunts that they wouldn't be able to pull it off without said system.
 	
 	etc.
-- 
+- don't explain anything through written text, use diegetic approaches instead.
+- if there's a problem in the project, implement the fix to be as close to it as possible
+- 1 problem, 1 fix, don't use 1 fix to fix multiple problems.
+- do your due diligence
+	  if something is hard to work on, close the project, remove all distractions, purposefully make yourself bored, until you come up with a solution, write it down, then execute it. 
+- avoid big reveals, so you can course correct choices.
