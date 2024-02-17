@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "a5a8ef915562a987",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf2054f9d2fe8043",
+        "type": "tabs",
+        "dimension": 67.19924812030075,
+        "children": [
+          {
+            "id": "931989cba1e01f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to do..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d640c91de668d1aa",
+        "type": "tabs",
+        "dimension": 32.80075187969925,
+        "children": [
+          {
+            "id": "b5b5472f29be2d7d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be82a029508340fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5e430b217eee136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49452e0ca8f0778",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bdddc72304e7dfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "046c232a76ed53be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3f5e9858ef7ae9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "651efff849d22614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "815859651a32e6a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "to do..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4ba32c4e1404d99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "to do..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbcfac5807ae6254",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "338d6a2fd873f905",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "to do..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "931989cba1e01f66",
+  "lastOpenFiles": [
+    "what maps to make.md",
+    "to do..md",
+    "main garage.md",
+    "map making plan.md",
+    "boss plan.md",
+    "what's the reason for this game.md",
+    "a get back plan.md",
+    "test car for physics.md",
+    "engine audio files.md",
+    "physics critisms.md",
+    "photos/2f6eff1d4cc03bb3400acff62376b2f9.jpg",
+    "misc code",
+    "map ref photos/shutterstock_471847652.0.jpg",
+    "map ref photos/downtown-honolulu-arial.jpg",
+    "map ref photos/Atlantic-Road_full.jpg",
+    "Camp 1.jpg",
+    "map ref photos/Camp 2.jpg",
+    "Camp.jpg",
+    "map ref photos/Camp.jpg",
+    "map ref photos/haugesund_fjord_norway_photo_nordic_drone_2_1_42c9d080-4ec3-4e28-bad9-eb1ee0c87ef9.jpg",
+    "map ref photos/9.vardø_small.jpg",
+    "map ref photos",
+    "misc code/fisheye shader.md",
+    "photos/garage board.canvas",
+    "photos"
+  ]
+}
