@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to do..md",
+                "file": "what's the reason for this game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bbb14d3889f88ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psychology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d640c91de668d1aa",
@@ -101,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "psychology.md"
+              }
             }
           }
         ]
@@ -159,16 +176,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b5b5472f29be2d7d",
+  "active": "5bbb14d3889f88ce",
   "lastOpenFiles": [
+    "test car for physics.md",
+    "psychology.md",
+    "a get back plan.md",
+    "what's the reason for this game.md",
+    "main garage.md",
     "to do..md",
     "what maps to make.md",
-    "main garage.md",
     "map making plan.md",
     "boss plan.md",
-    "what's the reason for this game.md",
-    "a get back plan.md",
-    "test car for physics.md",
     "engine audio files.md",
     "physics critisms.md",
     "photos/2f6eff1d4cc03bb3400acff62376b2f9.jpg",
