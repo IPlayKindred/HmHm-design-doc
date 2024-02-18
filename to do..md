@@ -27,8 +27,9 @@ dont push yourself too hard.
 	5. make bespoke wheels with brakes and very basic suspension.
 	6. make side mirrors.
 	7. actually model the innards of the cars like the radiators and engine headers.
+	8. Uv unwrap the cars onto 1 texture. to easily add liveries if needed.
+	9. shape key a simple damage system, for front, side and back damage.
 	
-	keep the esr (ford gt 2006) and build upon it. because its the only car that looks professionally made.
 19. add new cars like the:
 	1. seat leon -> spanish revolver.
 	2. lotus elise series 1 -> demonica act 1.

@@ -25,6 +25,8 @@ zero boss and you have one map, but alot of it is locked down, not areas of the 
 
 you beat enough bosses, you make more cars available to unlock and buy, you unlock parts of the map, until you unlock a second hardcore based map.
 
+the more you unlock of each map and area the more impossible the layout is and the more dreamy and fantastical it looks.
+
 which all of it unlocked from the start, with the exception of one end game route. the deadcrush.
 
 ---
