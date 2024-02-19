@@ -16,3 +16,11 @@ like:
 3. change and adapt the bespoke script for the new changes in physics.
 4. polish and make everything at tip top shape so you can change all the cars to that.
 5. use hinge joints for steering and use the wheel rigidbody forward dir to calculate slip and angle and slip ratio.
+6. an energy recovery system (ers):
+	this acts in the same way as burst nitrous, but the power of the burst is in how much energy is in the system, you gain energy by braking, the higher your speed while breaking, the more speed you lose, the bigger the energy, and the bigger the burst.
+	
+	it also works in a way that energy gain is exponential, the difference between 150 and 160 is much much more than 90 and 100, even tho they're both 10 apart.
+	
+	other ways to recover energy, is the time the car go down from air, the faster the  descent the better, also the higher the slip ratio, the more energy the ers system gains, as to compensate for the lost grip.
+	
+	the more downforce there is, the more energy is gained. 

@@ -1,0 +1,10 @@
+ - get new notebooks and pens
+	- ask mom when it's 3 pm today.
+ - study the first section of the arabic book
+	- break down the lessons
+	- skim through them in one pass
+	- write down all your questions
+	- skim through them again
+	- try to answer as much questions as you
+	- repeat the passes until you got all the questions you can, and answered as much as you can.
+	- and then you're done for the day.

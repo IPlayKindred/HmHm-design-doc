@@ -6,8 +6,6 @@ early game map:
 	   ![[shutterstock_471847652.0.jpg]]
 
 
-this map would probably just boston.
-
 ---
 
 
@@ -19,3 +17,5 @@ hardcore map:
 3. Atlantic road, norway
 	![[Atlantic-Road_full.jpg]]
 
+
+senja and atlantic road would share the same roads, but ryfylke will be bespoke.

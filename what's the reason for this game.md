@@ -2,9 +2,10 @@
 what's the purpose of this game? why should people pick it over something else?
 
 people chose games because it has a cool premise.
-you're navigating a sugar coated hell. that slowly and slowly slips into existential madness.
-kept purposefully hidden from its trailers and promotional pages and images.
-leaving it up to the player to find all of that.
+
+Hypermanic Hypermania wants to make you its bitch.
+
+you're navigating a sugar coated hell.
 
 it has a streak system, you can only buy stuff in the streak from the stuff you earned in the streak
 so there's no grinding and hoarding money until all the risk is ripped away.
@@ -21,36 +22,36 @@ you need 120k to earn the right to drive the murci, the you need to exit the str
 
 also the maps are locked behind a progress wall. it depends how many bosses you've beaten.
 
-zero boss and you have one map, but alot of it is locked down, not areas of the map but secondary and even third road networks, as to not overwhelm the player.
+zero boss and you have one map, but a lot of it is locked down, not areas of the map but secondary and even third road networks, as to not overwhelm the player.
 
-you beat enough bosses, you make more cars available to unlock and buy, you unlock parts of the map, until you unlock a second hardcore based map.
-
-the more you unlock of each map and area the more impossible the layout is and the more dreamy and fantastical it looks.
-
-which all of it unlocked from the start, with the exception of one end game route. the deadcrush.
+you beat enough bosses, you make more cars available to unlock and buy, you unlock parts of the map, this applies to both maps.
 
 ---
 
-you can lose the streaks immediately, your car can get damaged in individual parts.
+you can lose the streaks immediately.
 
-like engine damage, suspension damage, tire damage, transmission damage.
+your car can get damaged in individual parts.
+
+like engine damage, suspension damage, tire damage, body damage.
 
 the damage can carry throughout the streak if not and if not dealt with will get worse and worse.
 
-spike strips kill your tires, ramings fk up your rear suspensions.
+spike strips kill your tires, ramming fks up your suspensions and body.
 
 water fks up your engine, and too much body damage and you lose alot of downforce.
 
-would this make this game an immersive sim instead of a normal racing game? idk.
+the damage system is visually shown through baked in shape keys.
+
+one for the front, the other for the back, one is for the left and right, and up.
 
 the game doesn't have normal enemies, which drive the same cars that you can play.
 
-well it least it doesnt start that way, in the first class you drive against normal enemies that play off of the normal casual track sim approach to racing.
+well it least it doesnt start that way, in the first class you drive against normal enemies.
 
 the further you go into the game the more modified and twisted the cars are.
 
 and the more twisted cars the less it plays on the main rules set for the playable cars.
-as in, seperated panels, realistic car paint, a main line physics model and what not. however the pathfinding will still be the basic one find on the current ai cars.
+as in, they don't follow normal design conventions.
 
 all the custom enemies will be saved in the car model folder under its own "enemies" folder.
 
