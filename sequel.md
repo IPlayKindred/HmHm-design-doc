@@ -1,0 +1,1 @@
+the cover car would probably be an ascari fgt

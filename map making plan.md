@@ -41,6 +41,10 @@ rinse and repeat until you have the main road network.
 
 then you'd have the main road network. add more roads, shortcuts, open areas, vertical areas on building and stuff, bridges. to make it more fun and interesting.
 
+buildings arent build to be lived in, they're built to be driven on, the lines that make up the shapes of the buildings aren't for structural integrity, they're for roads that are textured differently.
+
+infact, to push that rule even further, on buildings you'll remake irl tracks, but like you between building to building. that sounds so fun.
+
 what to add to spice it up:
 1. a backup road going around a tight turn to act as a safety net.
 2. jumps going to the roof of buildings
