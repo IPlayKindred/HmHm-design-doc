@@ -2,7 +2,7 @@ this is to make the map making process easier. since its really mind consuming a
 
 ### THE DON'Ts
 
-1. Focus on the details instead of silhouettes, especially very early on when it the silhouettes weren't even defined.
+1. Focus on the details instead of silhouettes, especially very early on when the silhouettes weren't even defined.
 2. Go in without establishing the layout of the road first, weather its organically building up on the roads in blender and testing them in blender and/or drawing them on a piece of paper beforehand.
 3. go in without reference images and concept art, these are extremely important and should probably be the utmost priority, cuz they dictate the entire map.
 4. finishing the road and terrain without making it fun to begin with.
@@ -12,14 +12,14 @@ this is to make the map making process easier. since its really mind consuming a
 8. rush the terrain filling process, which leaves jagged edges and awful topology.
 9. skipping the blockout phase.
 10. not using reference or concept art for the blockout phase.
-11. utilize the verticality of the setting as much as possible, the more vertical the setting looks, the more roads should utilize that.
+11. not utilizing the verticality of the setting as much as possible, the more vertical the setting looks, the more roads should utilize that.
 
 ---
 
 
 ### GET REFERENCES
 
-in the triple digits, the more, the better organized the better.
+the more, the better organized, the better.
 
 ---
 
@@ -64,12 +64,6 @@ Using adobe colors. And reference images as suggested before.
 
 big shapes first, then fill in detail.
 
----
-
-
-### RENDER
-
-Don't go too overboard. Try to be as quick as possible, just iterate, what you need is time and patience, this piece will be used as a reference and a testing piece for the next concept artworks.
 
 ---
 

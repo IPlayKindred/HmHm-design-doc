@@ -3,28 +3,21 @@ what's the purpose of this game? why should people pick it over something else?
 
 people chose games because it has a cool premise.
 
-Hypermanic Hypermania wants to make you its bitch.
+Hypermanic Hypermania is risk incarnate.
 
 you're navigating a sugar coated hell.
 
-it has a streak system, you can only buy stuff in the streak from the stuff you earned in the streak
+it has a streak system, you can only buy stuff in the streak from the stuff you earned in the streak.
+
 so there's no grinding and hoarding money until all the risk is ripped away.
 
-you can only permanently unlock cars if you meet the requirements and buy it. and exit the streak.
+you can only permanently unlock cars if you buy it. and exit the streak without losing.
 
 ---
 
 want a murci? well you first earn the money, get the murci in the streak, then leave the streak before its too late.
 
-you need 120k to earn the right to drive the murci, the you need to exit the streak.
-
----
-
-also the maps are locked behind a progress wall. it depends how many bosses you've beaten.
-
-zero boss and you have one map, but a lot of it is locked down, not areas of the map but secondary and even third road networks, as to not overwhelm the player.
-
-you beat enough bosses, you make more cars available to unlock and buy, you unlock parts of the map, this applies to both maps.
+you need 120k to earn the right to drive the murci, then you need to exit the streak.
 
 ---
 
@@ -46,7 +39,7 @@ one for the front, the other for the back, one is for the left and right, and up
 
 the game doesn't have normal enemies, which drive the same cars that you can play.
 
-well it least it doesnt start that way, in the first class you drive against normal enemies.
+well it least it doesn't start that way, in the first class you drive against normal enemies.
 
 the further you go into the game the more modified and twisted the cars are.
 
