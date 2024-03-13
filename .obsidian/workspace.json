@@ -9,7 +9,7 @@
         "dimension": 67.19924812030075,
         "children": [
           {
-            "id": "c355b16f775b1e0f",
+            "id": "d3a95dfe365d06ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3a95dfe365d06ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what's the reason for this game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d640c91de668d1aa",
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "what's the reason for this game.md",
+                "file": "to do..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "what's the reason for this game.md",
+                "file": "to do..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "what's the reason for this game.md"
+                "file": "to do..md"
               }
             }
           }
@@ -178,13 +165,13 @@
   },
   "active": "d3a95dfe365d06ca",
   "lastOpenFiles": [
+    "test car for physics.md",
     "to do..md",
-    "what maps to make.md",
+    "map making plan.md",
+    "map to make.md",
     "what's the reason for this game.md",
     "psychology.md",
-    "map making plan.md",
     "main garage.md",
-    "test car for physics.md",
     "study plan.md",
     "sequel.md",
     "car theoretical system plan.md",

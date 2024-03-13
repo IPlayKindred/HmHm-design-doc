@@ -103,34 +103,27 @@ Using the plan you’ll need to block out the geometry in the map blend file. Us
 
 When you can’t go any further with basic shapes, you’ll then need to move on to the next step.
 
----
 
-
-### MODEL AND REFINE THE BASE MODEL
-
-Using the blockouts you’ll then make a new mesh modeled around them. This will be tough, use the blockouts as much as you can.
-
-It’ll take time and a lot of patience, use the references and the plan and the outlined geometry on the concept images.
-
-probably the most tedious part of the process.
-
-Remove unneeded geometry, and try to refine as much as possible, keeping it somewhat simple. So it can be painted over.
-
-The less geometry the better.
 
 ---
 
-### PAINT OVER USING THE TEXTURE PAINT TOOLS AND USE THE CONCEPT ART
+### MAKE THE KIT BASH SO YOU DONT GO INSANE
 
-Use the blender texture painting preset, use stencil tools, use the reference images, try to bake as much of the lighting in as possible, mainly ambient lighting.
+make parts of the city so it can be reused, stuff like different concrete walls, different floor tiles, different props like billboards, lights, water posts? and other stuff that would look apparent in the concept art
 
-Keep this part as detailed as you possibly can. The more refinement and time you give it the better.
+try to make them as fast as possible, prioritizing reusability, meaning you'd have to make different lengths and sizes and whatnot, different colours, themes, different uses so it can't get repetitive, while keeping the scope low, keeping the resources low, and keeping the style intact, which is what the concept art comes in
 
-This is basically the process where everything comes together. Have fun.
+use the quick edits projection option to help with making the assets.
 
-Once you’re done, save the textures and refine them in krita.
+---
 
-Then export them back into the blend file. So it can be exported to godot using the gltf file format.
+## FINALIZE THE MAP
+
+now that you have the kit bash, you can now, well, kit bash the map so you can finalize it, in this area you need polish and iterate. have fun.
+
+using the concept art and the already made assets.
+
+this is where everything comes together.
 
 ---
 ### GET READY TO EXPORT
