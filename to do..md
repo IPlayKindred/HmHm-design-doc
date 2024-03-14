@@ -26,9 +26,9 @@ dont push yourself too hard.
 	6. make side mirrors.
 	7. actually model the innards of the cars like the radiators and engine headers. but only stuff visible from the outside. kinda.
 	8. Uv unwrap the cars onto 1 texture. to easily add liveries if needed.
-	9. shape key a simple damage system, for front, side left and right and back and top damage.
+	9. shape key a simple damage system, for front and back damage.
 	10. make bespoke audio clips for each car.
-	11. use the ambient occlusion texture, invert it, and map it to the specular map.
+	11. use the ambient occlusion texture, invert it, and map it to the specular channel.
 	12. animate wings.
 	13. use autodesk image modeler to setup the modeling enviorment, so you dont need to rely on low res blueprints anymore. yay.
 	
@@ -103,3 +103,8 @@ making it easier to evolve the physics model
 
 #### make the traction code work with the new rigidbody wheels
 
+- use the wheel rotation for each wheel to the slip ratio calculations.
+- use the wheel angle for the slip angle calculations.
+- use the brushlong/lat value as a force value and add that force value through the wheel appropriate rigidbody.
+
+and that's it, that's how you evolve the physics model.
