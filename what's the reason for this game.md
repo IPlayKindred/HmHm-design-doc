@@ -23,27 +23,18 @@ you need 120k to earn the right to drive the murci, then you need to exit the st
 
 you can lose the streaks immediately.
 
-your car can get damaged in individual parts.
-
-these parts work in the same way as rpgs handle limbs.
-
-you can repair each limb and upgrade it.
-
-like engine damage, suspension damage, tire damage, body damage.
 
 the damage can carry throughout the streak if not and if not dealt with will get worse and worse.
 
-spike strips kill your tires, ramming fks up your suspensions and body.
+its only tires and body damage.
 
-water fks up your engine, and too much body damage and you lose alot of downforce.
+spike strips kill your tires.
 
 the damage system is visually shown through baked in shape keys.
 
-one for the front, the other for the back, one is for the left and right, and up.
+one for the front, the other for the back.
 
 and the more you use and abuse a part of the car, the more powerful it gets.
-
-and you can find loot and items the more you play in one streak.
 
 the game doesn't have normal enemies, which drive the same cars that you can play.
 
@@ -89,7 +80,7 @@ the available swap-able parts are:
 - chassis -> weight and durability
      - normal
      - lightweight (normal / pro / hyper)
-     - durable (normal / pro / hyper) -> all around durability
+     - heavy (normal / pro / hyper) -> all around durability
      - ram (normal / pro / hyper) -> frontal durability (more durable than the avg durable chassis but only in the front of the car)
 - tires -> grip and durability
      - normal (normal / pro / hyper) (more durability in every stage)

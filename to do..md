@@ -1,3 +1,4 @@
+
 no need to them at order, ofc that depends on each item in the list.
 
 dont push yourself too hard.
@@ -16,8 +17,7 @@ dont push yourself too hard.
 11. smoke particles. (VFX)
 12. skid marks. (VFX)
 13. brake and headlights. (VFX)
-14. Complete the car variable editor, the weight, forward friction and assists tab. (misc)
-15. remake all the cars to be alot, and I mean alot more higher quality, even with half modeled blacked out interiors. start with the wasp.  (cars)
+14. remake all the cars to be alot, and I mean alot more higher quality, even with half modeled blacked out interiors. start with the wasp.  (cars)
 	1. name all the game objects accordingly
 	2. make an ambient occlusion texture.
 	3. make seperate materials for headlights and backlights
@@ -32,12 +32,12 @@ dont push yourself too hard.
 	12. animate wings.
 	13. use autodesk image modeler to setup the modeling enviorment, so you dont need to rely on low res blueprints anymore. yay.
 	
-16. add new cars like the: (cars)
+15. add new cars like the: (cars)
 	1. seat leon -> spanish revolver.
 	2. agera R -> ghost
 	   
-17. make a new map, check [[map to make]] (world)
-18. add dirt particles, and fake dirt on the car using decals. (VFX)
+16. make a new map, check [[map to make]] (world)
+17. add dirt particles, and fake dirt on the car using decals. (VFX)
 
 ---
 ## ways to go about finishing those to dos:
@@ -66,7 +66,6 @@ things to do to actually get to the final product.
 - re modeling the cars wouldn't be the utmost priority, but something you put on the backburner so that when the game it ultimately done, you'd have a huge chunk of the cars facelifted. but I do advice to make a blockout of the cars first so you can build events around that.
 - when the layout of the map is done and all the roads are set and the terrain is being filled out, make as much events as possible.
 - when you have enough events we will now work on the progression. you'll add a money mechanic, a streak system, add all the functionality to the hyperdrive menu, and add the ability to lock and unlock cars accordingly.
-- now all thats left in this phase is to make the boss event, the one boss event, the agera r / ghost.
 - now that the skeleton of the game is done, all you need is alot and ALOT of polish. finish up the map, finish up the cars, tidy up the events, fix the bugs, make the ui more appealing, add quality of life improvements and make the game public ready.
 
 so the current plan is:
@@ -108,3 +107,6 @@ making it easier to evolve the physics model
 - use the brushlong/lat value as a force value and add that force value through the wheel appropriate rigidbody.
 
 and that's it, that's how you evolve the physics model.
+
+### how to deal with the engine rpm
+- just keep the rpm engine code. but when the clutch is dropped the rpm is just the wheel rpm but translated.
