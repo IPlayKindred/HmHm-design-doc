@@ -1,0 +1,1 @@
+killing 50 cops
